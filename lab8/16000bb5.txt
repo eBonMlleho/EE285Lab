@@ -1,0 +1,6 @@
+Mag: 7353.605586 The dominant frequency at index 311 is 933.00 Hz.
+Mag: 7353.605586 The dominant frequency at index 311 is 933.00 Hz.
+Mag: 7355.178750 The dominant frequency at index 311 is 933.00 Hz.
+Mag: 7355.178750 The dominant frequency at index 311 is 933.00 Hz.
+Mag: 7356.082644 The dominant frequency at index 311 is 933.00 Hz.
+Mag: 7356.082644 The dominant frequency at index 311 is 933.00 Hz.

@@ -1,0 +1,3 @@
+The first dominant frequency is 262.00 Hz.
+The second dominant frequency is 330.00 Hz.
+The third dominant frequency is 398.00 Hz.
